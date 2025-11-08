@@ -1,0 +1,5 @@
+git clone https://github.com/aralsafadi2005-collab/github-project-demo-Abdullah-alsafadi
+cd github-project-demo
+echo "Practicing GitHub" > practice.txt
+git add .
+git commit -m "Added practice file"
